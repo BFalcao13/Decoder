@@ -32,3 +32,5 @@ Como Utilizar
 Autor: Breno Falcão
 
 Este projeto foi desenvolvido por [BFalcao13](https://github.com/BFalcao13). Sinta-se à vontade para explorar, sugerir melhorias ou contribuir com o projeto.
+
+Deploy: https://bfalcao13.github.io/Decoder.github.io/
